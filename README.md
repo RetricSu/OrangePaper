@@ -24,13 +24,16 @@
 
 # 橙皮书目前的进展
 
-目前橙皮书团队只有 2 位全职成员和 3 名志愿者，团队 base 在北京。
+目前橙皮书团队只有 2 位全职成员和 ~~3~~ 28 名志愿者，团队 base 在北京。
 
-- 官网:[underplay.me](https://underplay.me/orange/) 
-- 公众号：橙皮书，id：taixu_huanjing
+- 官网:[orange.xyz](https://orange.xyz/)
+- 公众号：橙皮书，id：chengpishu
 - 小程序：orangepaper
+- [《预言家周报》](https://orange.xyz/newsletter)：把我们每天在加密世界读到的优质内容，以每周一封信件的方式分享给读者。目前已发布 8 期。
 
-都在开发中。
+# 社区相关进展
+
+- 开源APP客户端：[open source orangepaper mobile client](https://github.com/aaronisme/orangepaper) by [@aaronisme](https://github.com/aaronisme)  开发中，感谢这位志愿者～
 
 # 橙皮书希望完成的目标
 
@@ -53,5 +56,8 @@
 
 # TO-DO
 
-- Blockchain GuideBook
-- articles
+- 网站的后续完善，文章互动、开放注册、缓存、api等。
+- 思考怎样生产更有价值的内容，精品栏目、预言家周报、产品深入研究、行业团队采访。
+- 筹办线下活动
+- 尝试dapp方向的探索
+- 招人
