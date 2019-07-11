@@ -2,11 +2,12 @@
 
 目前橙皮书团队只有 ~~2~~ 4 位全职成员和 ~~3~~ 28 名志愿者，团队 base 在北京。
 
-- 官网:[orange.xyz](https://orange.xyz/)
+- 官网：[orange.xyz](https://orange.xyz/)
 - 公众号：橙皮书，id：chengpishu
 - 小程序：orangepaper
-- [《预言家周报》](https://orange.xyz/newsletter)：把我们每天在加密世界读到的优质内容，以每周一封信件的方式分享给读者。目前已发布 8 期。
-- OrangeBoard 橙皮书广告牌测试：[子仓库](https://github.com/RetricSu/the-orange-board-is-always-on-sale)
+- [《预言家周报》](https://orange.xyz/newsletter)：把我们每天在加密世界读到的优质内容，以每周一封信件的方式分享给读者。目前已发布 ~~8~~ 31 期。
+- OrangeBoard，橙皮书广告牌测试：[子仓库](https://github.com/RetricSu/the-orange-board-is-always-on-sale)
+- 5s，一个PC端的行情小工具：[子仓库](https://github.com/RetricSu/5s)
 
 # 「橙皮书」是什么？
 橙皮书是一个专注于区块链领域的内容社区。在这里，我们不太关心炒币，但我们对区块链的技术与产品一直很感兴趣。越深入了解区块链的技术原理，看到国外优秀社区在区块链领域进行的各种尝试，我们就越觉得这件事有意思。
